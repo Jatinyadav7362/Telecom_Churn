@@ -23,5 +23,5 @@ git clone [https://github.com/Jatinyadav7362/Telecom_Churn.git](https://github.c
 ### 2. Run the Development Server
 Navigate to the project directory and run the following command to start the development server:
 ```bash
-python manage.py runserver
+python .\manage.py runserver
 ```
